@@ -1,4 +1,4 @@
-# super-rentails
+# super-rentals
 
 Simple application for browsing interesting places to stay during your next vacation building with Ember tutorial to learn Ember framework syntax
 
@@ -14,7 +14,7 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd super-rentails`
+* `cd super-rentals`
 * `npm install`
 
 ## Running / Development
