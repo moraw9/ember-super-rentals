@@ -455,7 +455,7 @@ p {
   width: 200px;
 
   position: relative;
-  
+  top: -25px;
 }
 
 .screen-reader{
